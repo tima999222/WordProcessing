@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProcessing", "WordProcessing\WordProcessing.csproj", "{057FE357-1EFE-408E-89B0-C63F155CB2BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesReflection", "..\PropertiesReflection\PropertiesReflection\PropertiesReflection.csproj", "{09483478-73A3-4A51-8114-079EACDC338B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057FE357-1EFE-408E-89B0-C63F155CB2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057FE357-1EFE-408E-89B0-C63F155CB2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057FE357-1EFE-408E-89B0-C63F155CB2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057FE357-1EFE-408E-89B0-C63F155CB2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09483478-73A3-4A51-8114-079EACDC338B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09483478-73A3-4A51-8114-079EACDC338B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09483478-73A3-4A51-8114-079EACDC338B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09483478-73A3-4A51-8114-079EACDC338B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD94FC43-52C8-426F-A95A-2F99E806910E}
+	EndGlobalSection
+EndGlobal
